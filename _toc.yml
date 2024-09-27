@@ -1,0 +1,27 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: intro
+parts:
+  - caption: Numerical Toolkit
+    chapters:
+      - file: 1-numerical-toolkit/overview-of-jax
+      - file: 1-numerical-toolkit/training-with-flax
+  - caption: Training Neural Networks
+    chapters:
+      - file: 2-training-neural-networks/neural-networks
+      - file: 2-training-neural-networks/backpropagation
+      - file: 2-training-neural-networks/optimization
+  # - caption: Building Blocks
+  # - caption: Models
+  # - caption: Practical Scaling
+  # - caption: Theories
+  - caption: Notes
+    chapters:
+      - file: 7-notes/model-agnostic-meta-learning
+# chapters:
+# - file: markdown
+# - file: notebooks
+# - file: markdown-notebooks
+# - file: chap1/1
