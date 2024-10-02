@@ -20,6 +20,7 @@ parts:
   - caption: Notes
     chapters:
       - file: 7-notes/model-agnostic-meta-learning
+      - file: 7-notes/second-order-optimization
 # chapters:
 # - file: markdown
 # - file: notebooks
