@@ -17,9 +17,11 @@ parts:
   # - caption: Models
   # - caption: Practical Scaling
   # - caption: Theories
+  # - caption: Modalities
   - caption: Notes
     chapters:
       - file: 7-notes/model-agnostic-meta-learning
+      - file: 7-notes/learning-rate-schedules
       - file: 7-notes/second-order-optimization
 # chapters:
 # - file: markdown
