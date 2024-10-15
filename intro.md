@@ -47,6 +47,7 @@ Planned Table of Contents
     - Generative Adversarial Networks
     - Diffusion Models
     - Autoregressive Models (LLMs)
+    - Representation Learning
 - Practical Scaling
     - Structure of the GPU
     - Dataloading
