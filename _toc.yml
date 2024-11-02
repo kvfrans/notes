@@ -2,7 +2,7 @@
 # Learn more at https://jupyterbook.org/customize/toc.html
 
 format: jb-book
-root: intro
+root: index
 parts:
   - caption: Numerical Toolkit
     chapters:
@@ -13,7 +13,14 @@ parts:
       - file: 2-training-neural-networks/neural-networks
       - file: 2-training-neural-networks/backpropagation
       - file: 2-training-neural-networks/optimization
-  # - caption: Building Blocks
+  - caption: Building Blocks
+    chapters:
+      - file: 3-building-blocks/dense-layers
+      - file: 3-building-blocks/activations-and-normalization
+      - file: 3-building-blocks/residual-networks
+      - file: 3-building-blocks/convolutional-layers
+      - file: 3-building-blocks/recurrent-layers
+      - file: 3-building-blocks/attention
   # - caption: Models
   # - caption: Practical Scaling
   # - caption: Theories
