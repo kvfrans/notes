@@ -1,7 +1,7 @@
 # Book settings
 # Learn more at https://jupyterbook.org/customize/config.html
 
-title: An Alchemist's Guide to Deep Learning
+title: An Alchemist's Notes on Deep Learning
 author: Kevin Frans
 # logo: logo.png
 
@@ -33,6 +33,9 @@ html:
   home_page_in_navbar: false
 
 sphinx:
+  recursive_update: true
   config:
     html_static_path: ["_static"]
     html_css_files: ["custom.css"]
+    html_context:
+      default_mode: light

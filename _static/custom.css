@@ -24,3 +24,15 @@ h2 {
     font-size: 1.5em;
     font-weight: 400 !important;
 }
+
+html[data-theme="light"] .highlight .c1 {
+    color: #c83725;
+}
+
+html[data-theme="light"], html[data-theme="dark"] {
+    --pst-color-primary: #c83725;
+}
+
+blockquote {
+    border-left: .25em solid var(--pst-color-primary);
+}

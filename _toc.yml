@@ -16,20 +16,24 @@ parts:
   - caption: Building Blocks
     chapters:
       - file: 3-building-blocks/dense-layers
-      - file: 3-building-blocks/activations-and-normalization
+      - file: 3-building-blocks/activations
+      - file: 3-building-blocks/normalization
       - file: 3-building-blocks/residual-networks
       - file: 3-building-blocks/convolutional-layers
       - file: 3-building-blocks/recurrent-layers
       - file: 3-building-blocks/attention
-  # - caption: Models
+      - file: 3-building-blocks/the-transformer
+  - caption: Models
+    chapters:
+      - file: 4-models/classifiers
   # - caption: Practical Scaling
   # - caption: Theories
   # - caption: Modalities
-  - caption: Notes
+  - caption: Misc
     chapters:
-      - file: 7-notes/model-agnostic-meta-learning
-      - file: 7-notes/learning-rate-schedules
-      - file: 7-notes/second-order-optimization
+      - file: 7-misc/model-agnostic-meta-learning
+      - file: 7-misc/learning-rate-schedules
+      - file: 7-misc/second-order-optimization
 # chapters:
 # - file: markdown
 # - file: notebooks

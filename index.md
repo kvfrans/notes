@@ -2,9 +2,11 @@
 
 I've recently has the opportunity to spend lots of time learning with the excuse of [pursing a PhD](https://bair.berkeley.edu). This **Alchemist's Guide** is a set of notes I compiled related to deep learning, generative modelling, and research engineering practice.
 
-**Why alchemy?** Because in deep learning, we have not arrived at a grand theory of everything. We do have snippets of evidence and intutions, and examples of things that work. We have bits of mathematical foundations and theories. We have a rich body of literature and open-source code. Yet, we remain searching for how all these ideas should come together. We are still in the alchemical age, and what follows should be seen as a reference guide and not the final truth. I ask you to come to your own conclusions!
+**Who is this for?** For you, I hope. The ideal reader has an undergraduate-level understanding of machine learning, and is comfortable with Python. You can figure it out as you go.
 
-The goal of these notes are to provide defintions and examples. Wherever possible, we will utilize concrete code examples. This website is compiled from a set of Jupyter notebooks, so you can go and play through the code on every page. (Click the 'Colab' button on the top-right).
+**What do the contents look like?** The main goal of these notes is to provide definitions and examples. Each page will overview the concept, then answer commonly-posed questions, and conclude with references to learn more. Wherever possible, we will utilize concrete code examples. This website is compiled from a set of Jupyter notebooks, so **you can go and play through the code on every page**. (Click the 'Colab' button on the top-right). 
+
+**Why alchemy?** Because in deep learning, we have not arrived at a grand theory of everything. We do have snippets of evidence and intutions, and examples of things that work. We have bits of mathematical foundations and theories. We have a rich body of literature and open-source code. Yet, we remain searching for how all these ideas should come together. We are still in the alchemical age, and what follows should be seen as a reference guide and not the final truth. I ask you to come to your own conclusions!
 
 These notes are not finished. I am planning to continuously update it. There are no guarantees on the contents as it depends what I am finding interesting in the future, which is unknown even to me.
 
