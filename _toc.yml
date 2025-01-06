@@ -26,6 +26,7 @@ parts:
   - caption: Models
     chapters:
       - file: 4-models/classifiers
+      - file: 4-models/variational-auto-encoders
   # - caption: Practical Scaling
   # - caption: Theories
   # - caption: Modalities
