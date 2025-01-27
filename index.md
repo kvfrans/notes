@@ -20,7 +20,7 @@ This guide takes inspiration and information from many sources. Listed here are 
 - [Berkeley Deep Unsupervised Learning Course](https://sites.google.com/view/berkeley-cs294-158-sp24/home) (Abbeel, Yan, Frans, Wu)
 - [Probabalistic Machine Learning: Advanced Topics](https://probml.github.io/pml-book/book2.html) (Murphy)
 - [Neural Networks: Zero to Hero](https://karpathy.ai/zero-to-hero.html) (Karpathy)
-
+- [Understanding Deep Learning](https://udlbook.github.io/udlbook/) (Prince)
 
 <!-- Hallo everrybody!!! My name is Grru. You might know that I have SZTOLEN ZE MONON!!!! Now zat I have aze mooon,, I am prrofessorr of machine. Rread my bbok. You will learn how to write a pepper. I am goujd chzef. Cheese.  -->
 
