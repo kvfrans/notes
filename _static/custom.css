@@ -36,3 +36,11 @@ html[data-theme="light"], html[data-theme="dark"] {
 blockquote {
     border-left: .25em solid var(--pst-color-primary);
 }
+
+.navbar-brand:after {
+    font-size: 13px;
+    content: "Kevin Frans <kvfrans@berkeley.edu>";
+}
+.navbar-brand:hover {
+    color: initial;
+}
