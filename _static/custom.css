@@ -40,7 +40,19 @@ blockquote {
 .navbar-brand:after {
     font-size: 13px;
     content: "Kevin Frans <kvfrans@berkeley.edu>";
+    white-space: break-spaces;
+    text-align: center;
+    color: var(--pst-color-primary);
 }
 .navbar-brand:hover {
     color: initial;
+}
+
+a.headerlink {
+    display: none;
+}
+
+mjx-container[display="true"] {
+    margin-top: 0.3em !important;
+    margin-bottom: 0.8em !important;
 }
