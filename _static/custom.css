@@ -36,3 +36,23 @@ html[data-theme="light"], html[data-theme="dark"] {
 blockquote {
     border-left: .25em solid var(--pst-color-primary);
 }
+
+.navbar-brand:after {
+    font-size: 1em;
+    content: "Kevin Frans <kvfrans@berkeley.edu>";
+    white-space: break-spaces;
+    text-align: center;
+    color: var(--pst-color-primary);
+}
+.navbar-brand:hover {
+    color: initial;
+}
+
+a.headerlink {
+    display: none;
+}
+
+mjx-container[display="true"] {
+    margin-top: 0.3em !important;
+    margin-bottom: 0.8em !important;
+}

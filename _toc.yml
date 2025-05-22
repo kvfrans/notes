@@ -8,6 +8,7 @@ parts:
     chapters:
       - file: 1-numerical-toolkit/overview-of-jax
       - file: 1-numerical-toolkit/training-with-flax
+      - file: 1-numerical-toolkit/jaxtransformer
   - caption: Training Neural Networks
     chapters:
       - file: 2-training-neural-networks/neural-networks
@@ -27,6 +28,8 @@ parts:
     chapters:
       - file: 4-models/classifiers
       - file: 4-models/variational-auto-encoders
+      - file: 4-models/generative-adversarial-networks
+      - file: 4-models/diffusion-and-flow-matching
   # - caption: Practical Scaling
   # - caption: Theories
   # - caption: Modalities
