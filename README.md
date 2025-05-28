@@ -1,6 +1,6 @@
 ## notes
 
-This is the source repository for the website hosted at [notes.kvfrans.com](notes.kvfrans.com). 
+This is the source repository for the website hosted at [notes.kvfrans.com](https://notes.kvfrans.com). 
 
 # An Alchemist's Notes on Deep Learning
 
